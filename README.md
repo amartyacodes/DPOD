@@ -1,6 +1,7 @@
 # Can Out-of-Domain data help to Learn Domain-Specific Prompts for Multimodal Misinformation Detection? (Accepted for WACV 2024)
 ![DPOD](https://github.com/anonymouspeacock/DPOD/assets/151718362/5ed1a0d2-6d0c-45fc-abe9-386a6f6f03f2)
-
+[WACV 2025] PyTorch implementation of "Can Out-of-Domain data help to Learn Domain-Specific Prompts for
+Multimodal Misinformation Detection?"
 
 ## Dataset Collection
 - The query images and captions are found in the NewsCLIPpings datasets (we use the merged balanced dataset) [[Link](https://github.com/g-luo/news_clippings)].
